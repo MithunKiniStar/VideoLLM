@@ -1,5 +1,5 @@
 
-# VideoLLM
+# Video Q&A
 
 ## Prerequisites
 - **Python 3.10 and above**
